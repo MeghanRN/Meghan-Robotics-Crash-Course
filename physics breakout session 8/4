@@ -1,14 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T15:41:49.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="7GsaHN54LxpSgcw7ZkXq" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-04T15:44:08.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="NetIhqdX3q7LfFWXDBdm" version="13.5.9" type="github">
   <diagram id="rn8K3tMhvxHCs1hhn7wz" name="Page-1">
     <mxGraphModel dx="1022" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IBK5KmuuOwiZ2jrEqIUv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IBK5KmuuOwiZ2jrEqIUv-2" target="IBK5KmuuOwiZ2jrEqIUv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBK5KmuuOwiZ2jrEqIUv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IBK5KmuuOwiZ2jrEqIUv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="64.66668701171875" y="150.66668701171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBK5KmuuOwiZ2jrEqIUv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IBK5KmuuOwiZ2jrEqIUv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172" y="241.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IBK5KmuuOwiZ2jrEqIUv-2" value="raw motor_control(200,200)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="66" y="106" width="170" height="70" as="geometry" />
+          <mxGeometry x="87" y="35" width="170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="IBK5KmuuOwiZ2jrEqIUv-4" value="The motors are not the same strength. What parameters does each motor need in order for the robot to drive straight (as straight as possible)?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="38" y="-23" width="226" height="64" as="geometry" />
+          <mxGeometry x="46" y="-52" width="226" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IBK5KmuuOwiZ2jrEqIUv-7" value="right" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBK5KmuuOwiZ2jrEqIUv-9" value="left" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBK5KmuuOwiZ2jrEqIUv-15" value="straight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="248" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
